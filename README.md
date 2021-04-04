@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm currently looking for trainee- or junior position on web development. I have experience on both LAMP and MERN-stack and eager to learn even more. Please, don't hesitate to contact me. 
+
+For more information, [n00bsaiboth's GitHub Pages](https://n00bsaiboth.github.io/).
+
 <!--
 **n00bsaiboth/n00bsaiboth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
