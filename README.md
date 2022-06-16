@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently looking for trainee- or junior position on web development. I have experience on both LAMP and MERN-stack and eager to learn even more. Please, don't hesitate to contact me. 
+I'm happy to see you here. In other words, I'm glad that you found me. If you have been here before, you might recall that I was looking for a job, well these days are over. At the moment, I'm working at Citrus as a software developer trainee. So, no more web development for me at my spare time at least for money. Although, I can work as an consultant.
 
 For more information, [n00bsaiboth's GitHub Pages](https://n00bsaiboth.github.io/).
 
