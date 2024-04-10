@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm happy to see you here. In other words, I'm glad that you found me. If you have been here before, you might recall that I was looking for a job, well these days are over. At the moment, I'm working at Citrus as a software developer trainee. So, no more web development for me at my spare time at least for money. Although, I can work as an consultant.
+I'm happy to see you here. In other words, I'm glad that you found me.
 
 For more information, [n00bsaiboth's GitHub Pages](https://n00bsaiboth.github.io/).
 
