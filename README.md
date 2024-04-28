@@ -2,7 +2,7 @@
 
 I'm happy to see you here. In other words, I'm glad that you found me. Now that I got your attention, I have a favor to ask you. I'm looking for new adventures.
 
-My journey just has ended at or with [Citrus Solutions](https://citrussolutions.fi/) so now I'm looking for new adventures. I'm still working on with my CV and GitHub repositories (most of my recent work ended up or is behind Citrus walls), so that everything is up to date. In the meantime, if you know someone, who needs a guy, who knows something about PHP, Linux and cyber security, I'm your guy. Well, I know a thing or two about computers and networks and how do they work.
+My journey just has ended at or with [Citrus Solutions](https://citrussolutions.fi/) so now I'm looking for new adventures. I'm still working on with my CV and GitHub repositories (most of my recent work ended up or is behind Citrus walls), so that everything is up to date. In the meantime, if you know someone, who needs a guy, who knows something about PHP, Linux and cyber security, I'm your guy. Well besides that, I know a thing or two about computers and networks and how do they work.
 
 My role at Citrus was a full stack developer (LAMP-stack / web development), but I prefer the darkest corners at the office, so backend is more or less like my homefield. So I prefer the dark places, that no one likes, like module / drupal / php upgrades and or patching the existing ones. In two years, Citrus made me a quite good Drupalist. On that journey with Citrus, I came familiar with new technologies, like Azure, Docker, Gulp, Openshift, Platform.sh, and Webpack. Let's not forget about Jira, version control and Scrum and / or Agile. 
 
