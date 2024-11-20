@@ -10,9 +10,9 @@ My supervisor at Citrus promised me to recommend me, so if you're interested, pl
 
 So what are my strengths and weaknesses, you might ask. They actually go quite hand in hand. I'm quite good problem solver, fast learner and I love to documentate. Sometimes I might get stuck with a problem, and I'm so ambitious, that I want to solve the problem by myself and do not ask for a help. So that can be a bit time consuming. Like I told above, I'm not always at my best if I need to socialize with other people. I like to keep things by myself.
 
-Normally my salary wish is around 2050-2550 euros/month (without taxes) but then again I can work as a freelancer, around 50-65 euros/hour, but because then I would be a light entrepreneur, so I have to take account of what Ukko or Eezy is taking off from the salary and that the salary is something, that I can cope with.
+Normally my salary wish is around 2050-2550 euros/month (without taxes) but then again I can work as a freelancer, around 30-50 euros/hour, but because then I would be a light entrepreneur, so I have to take account of what Ukko, Omapaja or Eezy is taking off from the salary and that the salary is something, that I can cope with.
 
-So if you're interested in me, who can be at the same time as bold as an unsecure, but proactive and still willing to learn more and who won't let you down. I'm your guy! [jussi.k.jokinen (at) gmail.com](mailto:jussi.k.jokinen[at]gmail.com). 
+So if you're interested in me, who can be at the same time as bold as an unsecure, but proactive and still willing to learn more and who won't let you down. I'm your guy! [jussi.jokinen (at) openinnovations.io](mailto:jussi.jokinen[at]openinnovations.io). 
 
 For more information, [n00bsaiboth's GitHub Pages](https://n00bsaiboth.github.io/).
 
