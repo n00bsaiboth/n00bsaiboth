@@ -27,9 +27,9 @@ So if you're interested in me, who can be at the same time as bold as an insecur
 
 For more information:
 - [openinnovations.io](https://openinnovations.io/).
-- [LinkedIn](https://www.linkedin.com/in/jussi-k-jokinen/)
-- [Bluesky](https://bsky.app/profile/n00bsaiboth.bsky.social)
-- [Mastodon](https://mastodontti.fi/@n00bsaiboth)
+- [LinkedIn](https://www.linkedin.com/in/jussi-k-jokinen/).
+- [Bluesky](https://bsky.app/profile/n00bsaiboth.bsky.social).
+- [Mastodon](https://mastodontti.fi/@n00bsaiboth).
 
 <!--
 **n00bsaiboth/n00bsaiboth** is a ✨ _special_ ✨ repository because itsfile) appears on your GitHub profile.
