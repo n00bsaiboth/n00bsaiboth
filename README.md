@@ -17,6 +17,8 @@ A bit of about myself:
 
 I'm not quite ready to step into anyone's boots, because I'm a bit insecure and don't know what people or companies expect from me. Even though, I might be a bit insecure, I'll fulfill that gap with enthusiasm and can do attitude.
 
+Also I got this one more favor to ask you. If you could use your network and "advertise me", that you know a guy who is looking for work. It can be your co-worker, your husband or wife, your neighbour or your neigbour's dog. That would be great.
+
 I've been unemployed almost a year now, but I've keeping myself busy.
 - [develop.openinnovations.io](https://develop.openinnovations.io) this project is based on the [fullstackopen](https://fullstackopen.com) course material. Still in progress.
 - [virtual-server.openinnovations.io](https://virtual-server.openinnovations.io) this project is based on the [tieto.nurminen.dev](https://tieto.nurminen.dev).
