@@ -15,7 +15,9 @@ A bit of about myself:
 - I'm at my home field, when working with Linux and backend, but also the frontend is doable.
 - Love to do documentation.
 
-I'm not quite ready to step into anyone's boots, because I'm a bit insecure and don't know what people or companies expect from me. Even though, I might be a bit insecure, I'll fulfill that gap with enthusiasm and can do attitude. To play it safe: I'm looking for trainee- or junior positions, even though my skill level might be a bit above than that. It depends on the task or the position, but I think my skill level is somewhere between junior and senior.
+I'm not quite ready to step into anyone's boots, because I'm a bit insecure and don't know what people or companies expect from me. Even though, I might be a bit insecure, I'll fulfill that gap with enthusiasm and can do attitude. 
+
+To play it safe: I'm looking for trainee- or junior positions, even though my skill level might be a bit above than that.
 
 Also I got this one more favor to ask you. If you could use your network and "advertise me", that you know a guy who is looking for work. It can be your co-worker, your husband or wife, your neighbour or your neigbour's dog. That would be great.
 
