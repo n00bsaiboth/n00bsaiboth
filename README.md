@@ -9,7 +9,7 @@ A bit of about myself:
 - Previous work experience: I was working in Citrus for 2 years as a Drupalist.
 - Favorite stacks: LAMP and MERN.
 - Favorite OS: Debian and Arch Linux.
-- Also iterested in DevOps and cyber security.
+- Also interested in DevOps and cyber security.
 - Got the right attitude and willing and eager to learn more (humblebly).
 - When it comes to problem solving or trouble shooting. I don't get bored, bothered or frustrated so easy.
 - I'm at my home field, when working with Linux and backend, but also the frontend is doable.
