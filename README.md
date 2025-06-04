@@ -23,7 +23,6 @@ Also I got this one more favor to ask you. If you could use your network and "ad
 
 I've been unemployed almost a year now, but I've keeping myself busy.
 - [develop.openinnovations.io](https://develop.openinnovations.io) this project is based on the [fullstackopen](https://fullstackopen.com) course material. Still in progress.
-- [virtual-server.openinnovations.io](https://virtual-server.openinnovations.io) this project is based on the [tieto.nurminen.dev](https://tieto.nurminen.dev).
 - [documentation.openinnovations.io](https://documentation.openinnovations.io) this is our documentation project.
 - Among other small things like LAMP and MERN projects, Linux configurations, etc..
 
